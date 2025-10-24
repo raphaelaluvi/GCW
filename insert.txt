@@ -1,0 +1,2 @@
+INSERT INTO `aluno` (`id_aluno`, `nome_aluno`, `rm`, `email_institucional`, `disponivel`, `senha`) VALUES
+('1A_41', 'ANA LUIZA SANTOS COLOMBARI', 25092, 'ana.colombari@etec.sp.gov.br', b'1', NULL);
